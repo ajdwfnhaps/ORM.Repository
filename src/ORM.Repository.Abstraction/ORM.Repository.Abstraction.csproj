@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>ajdwfnhaps</Authors>
+    <Company>ORM.Repository.Abstraction</Company>
+    <Description>ORM仓储抽象层</Description>
+    <PackageProjectUrl>https://github.com/ajdwfnhaps/ORM.Repository</PackageProjectUrl>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\Work\ajdwfnhaps\Product\ORM.Repository\src\ORM.Repository.Abstraction\ORM.Repository.Abstraction.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>D:\Work\ajdwfnhaps\Product\ORM.Repository\src\ORM.Repository.Abstraction\ORM.Repository.Abstraction.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

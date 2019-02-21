@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ORM.Repository.Abstraction</name>
+    </assembly>
+    <members>
+        <member name="T:ORM.Repository.Abstraction.IRepository`1">
+            <summary>
+            仓储模式接口
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:ORM.Repository.Abstraction.IRepository`1.FromSql(System.String)">
+            <summary>
+            FromSql
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

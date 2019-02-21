@@ -3,3 +3,7 @@
 ################################################################################
 
 /ORM.Repository.Abstraction/obj
+/src/.vs/ORM.Repository/v15
+/src/.vs/ORM.Repository/DesignTimeBuild
+/src/ORM.Repository.Abstraction/obj
+/src/ORM.Repository.Abstraction/bin/Debug/netstandard2.0
